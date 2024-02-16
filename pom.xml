@@ -59,7 +59,7 @@
         <configuration>
 				<suiteXmlFiles>
 				<!-- TestNG suite XML files -->
-					<suiteXmlFile>fullRegressionTesting.xml</suiteXmlFile>
+					<suiteXmlFile>flr.xml</suiteXmlFile>
 				</suiteXmlFiles>
 			</configuration>
       </plugin>
@@ -80,7 +80,7 @@
         <configuration>
 				<suiteXmlFiles>
 				<!-- TestNG suite XML files -->
-					<suiteXmlFile>smoketesting.xml</suiteXmlFile>
+					<suiteXmlFile>st.xml</suiteXmlFile>
 				</suiteXmlFiles>
 			</configuration>
       </plugin>
